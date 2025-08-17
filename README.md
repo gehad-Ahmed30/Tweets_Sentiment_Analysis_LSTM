@@ -43,4 +43,7 @@ git clone <repo-url>
 
 This project is licensed under the MIT License.
 
+## Kaggle:
+https://www.kaggle.com/code/gehad830/tweets-sentiment-analysis-lstm
+
 
